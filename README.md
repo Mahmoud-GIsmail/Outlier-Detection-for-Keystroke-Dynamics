@@ -14,24 +14,6 @@ This repository houses the implementation for an innovative approach to keystrok
 
 - **Comprehensive Evaluation:** The project conducts a thorough evaluation of HBOS against 15 other outlier detection methods, highlighting its superior performance.
 
-## Getting Started
-
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-username/keystroke-authentication.git
-    cd keystroke-authentication
-    ```
-
-2. **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Code:**
-    ```bash
-    python main.py
-    ```
-
 4. **Explore Results:**
     After running the code, explore the results and performance metrics to gauge the effectiveness of the implemented keystroke dynamics-based authentication with HBOS.
 
@@ -69,18 +51,26 @@ ROC curves are plotted for each group of classifiers:
 ![Linear Models](Linear%20Models.png)
 
 2. Proximity-Based Models
-![Proximity-Based Models](Proximity-Based%20Models.png)
+![Proximity-Based Models]
 
-3. Probabilistic Models
-![Probabilistic Models](Probabilistic%20Models.png)
+(Proximity-Based%20Models.png)
 
-4. Ensembles and Combination Frameworks
-![Ensembles and Combination Frameworks](Ensembles%20and%20Combination%20Frameworks.png)
+4. Probabilistic Models
+![Probabilistic Models]
+
+(Probabilistic%20Models.png)
+
+6. Ensembles and Combination Frameworks
+![Ensembles and Combination Frameworks]
+
+(Ensembles%20and%20Combination%20Frameworks.png)
 
 ## Additional Visualization
 
 A separate visualization of the HBOS classifier is shown below:
-![HBOS Classifier](HBOS.png)
+![HBOS Classifier]
+
+(HBOS.png)
 
 ## Contributing
 
