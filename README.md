@@ -39,6 +39,49 @@ This repository houses the implementation for an innovative approach to keystrok
 
 Upon execution, the system provides insightful metrics such as Equal Error Rate (EER), Area Under the Curve (AUC), and Accuracy (ACC), showcasing the reliability and efficiency of the proposed approach.
 
+### EER, AUC, and ACC Scores
+
+The following table displays the EER, AUC, and ACC scores for each classifier:
+
+| Classifier                                   | EER (%) | ACC (%) | AUC (%) |
+|----------------------------------------------|---------|---------|---------|
+| Histogram-based Outlier Detection (HBOS)     | 6.42    | 90.55   | 97.68   |
+| Isolation Forest                             | 8.89    | 87.24   | 96.34   |
+| Principal Component Analysis (PCA)           | 10.45   | 79.39   | 94.74   |
+| Gaussian Mixture Model                       | 11.00   | 81.90   | 94.44   |
+| Average KNN                                  | 12.60   | 66.24   | 93.86   |
+| Angle-based Outlier Detector (ABOD)          | 12.67   | 56.24   | 93.84   |
+| K Nearest Neighbors (KNN)                    | 13.30   | 65.30   | 93.30   |
+| Cluster-based Local Outlier Factor (CBLOF)   | 14.73   | 64.61   | 91.84   |
+| Kernel Density Estimation                    | 15.62   | 61.36   | 90.11   |
+| Feature Bagging                              | 16.92   | 57.77   | 89.76   |
+| INNE                                         | 17.44   | 70.52   | 90.17   |
+| Local Outlier Factor (LOF)                   | 17.60   | 56.93   | 89.09   |
+| Locally Selective Combination (LSCP)        | 17.84   | 58.67   | 89.03   |
+| One-class SVM (OCSVM)                        | 19.29   | 60.35   | 84.97   |
+| LMDD                                         | 44.95   | 54.57   | 60.96   |
+
+### ROC Curves
+
+ROC curves are plotted for each group of classifiers:
+
+1. Linear Models
+![Linear Models](Linear%20Models.png)
+
+2. Proximity-Based Models
+![Proximity-Based Models](Proximity-Based%20Models.png)
+
+3. Probabilistic Models
+![Probabilistic Models](Probabilistic%20Models.png)
+
+4. Ensembles and Combination Frameworks
+![Ensembles and Combination Frameworks](Ensembles%20and%20Combination%20Frameworks.png)
+
+## Additional Visualization
+
+A separate visualization of the HBOS classifier is shown below:
+![HBOS Classifier](HBOS.png)
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests. For major changes, please open an issue first to discuss potential updates.
@@ -47,4 +90,3 @@ Contributions are welcome! Feel free to submit issues, feature requests, or pull
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
