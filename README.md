@@ -47,22 +47,13 @@ The following table displays the EER, AUC, and ACC scores for each classifier:
 
 ROC curves are plotted for each group of classifiers:
 
-1. Linear Models
-![Linear Models](Linear%20Models.png)
+![Linear Models](Figure%203.png)
 
-2. Proximity-Based Models
-![Proximity-Based Models](Proximity-Based%20Models.png)
-
-3. Probabilistic Models
-![Probabilistic Models](Probabilistic%20Models.png)
-
-4. Ensembles and Combination Frameworks
-![Ensembles and Combination Frameworks](Ensembles%20and%20Combination%20Frameworks.png)
 
 ## Additional Visualization
 
 A separate visualization of the HBOS classifier is shown below:
-![HBOS Classifier](HBOS.png)
+![HBOS Classifier](Figure%204.png)
 
 ## Contributing
 
