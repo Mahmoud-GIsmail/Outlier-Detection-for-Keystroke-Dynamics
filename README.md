@@ -1,4 +1,26 @@
 # Outlier-Detection-for-Keystroke-Biometric-User-Authentication
+**Authors:**
+
+- Mahmoud G. Ismail
+    - Faculty of Media Engineering and Technology, German University in Cairo, Cairo 11835, Egypt
+
+- Mohammed A.-M. Salem
+  - Faculty of Media Engineering and Technology, German University in Cairo, Cairo 11835, Egypt
+
+- Mohamed A. Abd El Ghany
+  - Electronics Department, German University in Cairo, Cairo 11835, Egypt
+  - Integrated Electronic Systems Lab, TU Darmstadt, 64283 Darmstadt
+
+- Eman Abdullah Aldakheel
+  - Department of Computer Sciences, College of Computer and Information Sciences, Princess Nourah Bint Abdulrahman University, Riyadh 11671, Saudi Arabia
+
+- Safia Abbas
+  - Department of Computer Sciences, Faculty of Computer and Information Sciences, Ain Shams University, Cairo 11566, Egypt
+
+**Corresponding Author:**
+
+- Mahmoud G. Ismail
+  - Email: mahmodg.ismail@gmail.com
 
 ## Overview
 
